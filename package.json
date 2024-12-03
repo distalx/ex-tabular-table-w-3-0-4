@@ -1,0 +1,17 @@
+{
+  "name": "ex-tabular-table-3_0_4",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "test": "meteor test --once --driver-package meteortesting:mocha"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.23.5",
+    "jquery": "^3.7.1",
+    "meteor-node-stubs": "^1.2.10",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
